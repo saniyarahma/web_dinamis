@@ -4,3 +4,6 @@ Tugas 1
 
 Tugas 2
 ![tugas2](https://user-images.githubusercontent.com/73781686/97809578-371e2680-1ca0-11eb-845b-de2d00c72023.png)
+
+Tugas 3
+![tugas3](https://user-images.githubusercontent.com/73781686/97809597-65036b00-1ca0-11eb-894a-1fdd38a8e969.png)

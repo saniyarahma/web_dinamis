@@ -11,3 +11,6 @@ Tugas 3
 Tugas Percabangan
 ![tugas_percabangan](https://user-images.githubusercontent.com/73781686/99186282-d30c5f80-2781-11eb-863d-4b110f727108.png)
 
+Tugas Membuat dan Memanggil Fungsi
+![membuat dan memanggil fungsi php](https://user-images.githubusercontent.com/73781686/100542368-0cfa5d00-327c-11eb-9a53-f677db02191a.png)
+

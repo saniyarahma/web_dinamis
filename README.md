@@ -14,3 +14,6 @@ Tugas Percabangan
 Tugas Membuat dan Memanggil Fungsi
 ![membuat dan memanggil fungsi php](https://user-images.githubusercontent.com/73781686/100542368-0cfa5d00-327c-11eb-9a53-f677db02191a.png)
 
+Tugas Fungsi dengan Parameter
+![fungsi dengan parameter](https://user-images.githubusercontent.com/73781686/100542456-885c0e80-327c-11eb-8a02-36e795e3375f.png)
+

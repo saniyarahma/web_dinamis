@@ -17,3 +17,6 @@ Tugas Membuat dan Memanggil Fungsi
 Tugas Fungsi dengan Parameter
 ![fungsi dengan parameter](https://user-images.githubusercontent.com/73781686/100542456-885c0e80-327c-11eb-8a02-36e795e3375f.png)
 
+Tugas Fungsi Default Parameter
+![fungsi default parameter](https://user-images.githubusercontent.com/73781686/100542492-bd686100-327c-11eb-9e7f-1ab74aeaa040.png)
+

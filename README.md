@@ -23,3 +23,6 @@ Tugas Fungsi Default Parameter
 Tugas Fungsi Return Value
 ![fungsi return value](https://user-images.githubusercontent.com/73781686/100542526-fb658500-327c-11eb-8b38-a0732ca8aa07.png)
 
+Tugas Fungsi didalam Fungsi
+![fungsi didalam fungsi](https://user-images.githubusercontent.com/73781686/100542569-5eefb280-327d-11eb-81c1-65e9b62f7117.png)
+

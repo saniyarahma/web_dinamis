@@ -26,3 +26,5 @@ Tugas Fungsi Return Value
 Tugas Fungsi didalam Fungsi
 ![fungsi didalam fungsi](https://user-images.githubusercontent.com/73781686/100542569-5eefb280-327d-11eb-81c1-65e9b62f7117.png)
 
+Tugas Fungsi Rekursif
+![fungsi rekursif](https://user-images.githubusercontent.com/73781686/100542614-96f6f580-327d-11eb-9d54-788ca83677de.png)

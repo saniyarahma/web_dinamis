@@ -20,3 +20,6 @@ Tugas Fungsi dengan Parameter
 Tugas Fungsi Default Parameter
 ![fungsi default parameter](https://user-images.githubusercontent.com/73781686/100542492-bd686100-327c-11eb-9e7f-1ab74aeaa040.png)
 
+Tugas Fungsi Return Value
+![fungsi return value](https://user-images.githubusercontent.com/73781686/100542526-fb658500-327c-11eb-8b38-a0732ca8aa07.png)
+
